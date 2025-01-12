@@ -27,6 +27,7 @@ Cada diretório neste repositório representa um projeto ou conceito específico
 ```
 /
 ├── go-oo/           # Conceitos de Orientação a Objetos em Go
+├── api/             # Conceitos criacao de APIs em Go
 └── README.md        # Este arquivo
 ```
 
