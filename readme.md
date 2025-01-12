@@ -28,6 +28,7 @@ Cada diretório neste repositório representa um projeto ou conceito específico
 /
 ├── go-oo/           # Conceitos de Orientação a Objetos em Go
 ├── api/             # Conceitos criacao de APIs em Go
+├── goroutines/      # Conceitos de Concorrência em Go
 └── README.md        # Este arquivo
 ```
 
@@ -61,10 +62,10 @@ Cada projeto pode ter requisitos específicos adicionais, que serão documentado
 
 - [X] Fundamentos da linguagem Go
 - [X] Estruturas de dados e tipos
-- [ ] Concorrência e goroutines
+- [X] Concorrência e goroutines
 - [X] Interfaces e composição
 - [X] Tratamento de erros
-- [ ] Testes em Go
+- [X] Testes em Go
 - [X] Ferramentas e ambiente de desenvolvimento
 - [ ] Projetos práticos
 
